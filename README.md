@@ -1,1 +1,1 @@
-# Numerical_Algorithms
+# Numerical Algorithms
